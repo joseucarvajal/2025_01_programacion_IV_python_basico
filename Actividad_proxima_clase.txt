@@ -1,0 +1,9 @@
+Para la proxima clase, 18 de febrero del 2025:
+1. Instalar Python en sus computadores
+2. Instalar Visual Studio Code en sus computadores
+3. Traer su computador para taller en clase
+4. Estudiar y practicar los temas vistos en clase:
+    - Variables
+    - Input y Output
+    - Estructuras de control: if, else, elif
+    - Estructuras de repeticion: for
