@@ -1,0 +1,44 @@
+Una empresa de transporte de pasajeros lo ha contratado a usted para desarrollar un sistema para gestionar sus viajes.
+
+El sistema debe permitir:
+    - Ingresar datos de diferentes viajes, es decir, se pueden tener múltiples viajes en el sistema, no solamente uno.
+    - Por cada viaje se debe ingresar
+        - Ciudad de origen
+        - Ciudad de destino
+        - Precio del viaje
+        - Cantidad de pasajeros
+        - Por cada pasajero se debe ingresar:
+            - Nombre del pasajero
+            - Género del pasajero
+            - Si el pasajero es estudiante, tiene un descuento del 30% en el precio del viaje
+    - Por cada viaje se pueden ingresar una cantidad indeterminada de pasajeros. Por ejemplo, un viaje puede tener
+    5 pasajeros, otro 10 pasajeros, otro 2 pasajeros, etc.
+    - Al final el sistema debe permitir mostrar la siguiente información:
+        - Total de pasajeros que viajaron
+        - Total de dinero recaudado
+        - Total de dinero recaudado por género, es decir, total de dinero recaudado por hombres y total de dinero recaudado por mujeres
+        - El total de descuentos aplicados a los pasajeros estudiantes
+        - Cual fue el viaje que recaudó más dinero y cuanto dinero recaudó
+        - El promedio de edad de los pasajeros
+        
+Restricciones:
+    - Se debe utilizar lo visto hasta ahora en clase:
+        - Variables
+        - Entrada y salida de datos
+        - Estructuras de control: if, else, elif
+        - Estructuras de repetición: for, while
+        - Manejo de errores: try, except, validaciones de entrada de datos: números, valores negativos, etc.
+        - Funciones
+    - No se pueden poner comentarios en el código
+    - El proyecto debe estar en GitHub
+    - El proyecto debe estar en Python
+    - Se debe realizar de forma individual, no se aceptan grupos
+    - Fechas de entrega, sustentación y asesoría:
+        - Asesoría: 04 de marzo del 2025. Deben traer trabajo adelantado para la asesoría
+        - El programa debe estar terminado y subido a GitHub el día 10 de marzo del 2025. Se califica puntualidad en esta fecha
+         de entrega.
+        - Fecha de entrega y sustentación individual: 11 de marzo del 2025
+    - Porcentajes de calificación:
+        - 40%: Código funcionando
+        - 60%: Sustentación. La sustentación puede ser un parcial relacionado con el el proyecto realizado, por ejemplo: agregar
+        funcionalidades al proyecto como calcular un promedio de edad de los pasajeros, agregar validaciones, etc.

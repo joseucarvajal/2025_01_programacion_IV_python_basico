@@ -7,3 +7,4 @@ Para la proxima clase, 18 de febrero del 2025:
     - Input y Output
     - Estructuras de control: if, else, elif
     - Estructuras de repeticion: for
+    - Estructuras de repeticion: while
