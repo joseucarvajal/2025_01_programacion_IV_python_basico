@@ -1,0 +1,45 @@
+Una compañía de bienes raíces tiene diferentes inmuebles para dos propósitos: venta y arriendo. 
+Los inmuebles para venta, se venden una sola vez y por este concepto de venta la compañía adquiere una comisión del 10% 
+sobre el valor total de la venta, de esta comisión de venta, la compañía debe pagarle al asesor un 3% sobre el valor total de la venta. 
+Por otro lado, los inmebles de arriendo se arriendan por un determinado número de meses, en este caso la compañía gana un porcentaje mensual 
+sobre el canon de arrendamiento, este porcentaje mensual es pactado con el dueño del inmueble y puede ser diferente en cada caso. 
+La inmobiliaria lo ha contratado a usted para que desarrolle un software que le permita:
+
+	1. Registrar inmuebles
+	2. Vender inmuebles
+	3. Alquilar inmuebles
+	4. Adicionalmente, la empresa desea conocer:
+		a. Cuánto dinero está ganando tanto por venta como por alquiler de inmuebles
+		b. Si está ganando más dinero por venta que por alquiler de inmuebles o visceversa
+		c. En que mes la compañía tuvo más ganancias por concepto de arriendo de inmuebles
+		d. El total de comisiones por concepto de venta de inmuebles que la compañía debe pagar
+
+Restricciones:
+    - Se debe utilizar lo visto hasta ahora en clase:
+        - Variables
+        - Entrada y salida de datos
+        - Estructuras de control: if, else, elif
+        - Estructuras de repetición: for, while
+        - Manejo de errores: try, except, validaciones de entrada de datos: números, valores negativos, etc.
+        - Objetos: 
+            - Clases 
+            - Objetos
+            - Métodos
+            - Método constructor
+            - Propiedades
+            - Encapsulamiento
+            - Herencia
+            - Polimorfismo
+    - No se pueden poner comentarios en el código
+    - El proyecto debe estar en GitHub
+    - El proyecto debe estar en Python
+    - Se debe realizar de forma individual, no se aceptan grupos
+    - Fechas de entrega, sustentación y asesoría:
+        - Asesoría: 08 de marzo del 2025. Deben traer trabajo adelantado para la asesoría
+        - El programa debe estar terminado y subido a GitHub el día 18 de marzo del 2025. Se califica puntualidad en esta fecha
+         de entrega. Por cada día de retraso en la entrega, se disminuye la nota final del proyecto en 1 unidad.
+        - Fecha de entrega y sustentación individual: 22 de abril del 2025
+    - Porcentajes de calificación:
+        - 40%: Código funcionando
+        - 60%: Sustentación. La sustentación puede ser un parcial relacionado con el el proyecto realizado, por ejemplo: agregar
+        funcionalidades al proyecto como calcular un promedio de edad de los pasajeros, agregar validaciones, etc.
